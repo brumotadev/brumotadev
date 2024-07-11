@@ -2,8 +2,6 @@
 
 Formado em análise e desenvolvimento de sistemas. Possuo mais de 2 anos de experiência com desenvolvimento de software. Trabalhando com produtos de e-commerce, bancários e core banking. 
 
-Atualmente curso Engenharia da Computação na UNIVESP, e estou aperfeiçoando meus conhecimentos em C#, .NET e SQL.
-
 
 ---
 
