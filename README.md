@@ -1,4 +1,4 @@
-## Hi there 👋
+## Olá, sou o Bruno Mota! 👋
 
 Possuo experiência com atendimento ao cliente, onde trabalhei como operador de telemarketing atuando com produtos de BackOffice de Vendas, Consórcio, Financeiro, Suporte técnico e seguros.
 
