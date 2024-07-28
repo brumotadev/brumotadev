@@ -1,5 +1,9 @@
 ## Olá, sou o Bruno Mota! 👋
 
+<p align=right>
+<img src="https://github.com/brumotadev/brumotadev/blob/main/assets/coffee.png">
+</p>
+
 Possuo experiência com atendimento ao cliente, onde trabalhei como operador de telemarketing atuando com produtos de BackOffice de Vendas, Consórcio, Financeiro, Suporte técnico e seguros.
 
 Como sempre tive facilidade em aprender novas coisas, em todos produtos que trabalhei. Me tornava um apoio para meus outros colegas de equipe, ajudando na solução de problemas e na utilização dos sistemas. E ministrava treinamentos para novos membros da equipe, sobre a utilização do sistema e regras de negócio.
@@ -8,8 +12,11 @@ E por ser curioso, queria saber como era o funcionamento dos sistemas que utiliz
 
 Atualmente curso Engenharia da Computação na UNIVESP. E busco uma oportunidade para iniciar na área de desenvolvimento de software.
 
+---
+
 ![Top Langs](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=brumotadev&bg_color=000&border_color=30A3DC&title_color=E94D5F&text_color=FFF)
 [![GitHub Streak](https://streak-stats.demolab.com/?user=brumotadev&theme=bear&background=000&border=30A3DC&dates=FFF)](https://git.io/streak-stats)
+
 ---
 
 <p align=center>
