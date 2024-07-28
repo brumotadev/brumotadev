@@ -1,9 +1,9 @@
 ## Olá, sou o Bruno Mota! 👋
 
-<p align=right>
-<img src="https://github.com/brumotadev/brumotadev/blob/main/assets/coffee.png">
-</p>
 
+<img align=right src="https://github.com/brumotadev/brumotadev/blob/main/assets/coffee.png">
+
+<p>
 Possuo experiência com atendimento ao cliente, onde trabalhei como operador de telemarketing atuando com produtos de BackOffice de Vendas, Consórcio, Financeiro, Suporte técnico e seguros.
 
 Como sempre tive facilidade em aprender novas coisas, em todos produtos que trabalhei. Me tornava um apoio para meus outros colegas de equipe, ajudando na solução de problemas e na utilização dos sistemas. E ministrava treinamentos para novos membros da equipe, sobre a utilização do sistema e regras de negócio.
@@ -11,6 +11,10 @@ Como sempre tive facilidade em aprender novas coisas, em todos produtos que trab
 E por ser curioso, queria saber como era o funcionamento dos sistemas que utilizava e tentava sempre ir além. E acabei descobrindo a programação, e assim soube onde todas ferramentas que eu utilizava eram desenvolvidas. Decidindo que aquilo era exatamente o que eu queria fazer, desenvolver sistemas para outras pessoas utilizarem.
 
 Atualmente curso Engenharia da Computação na UNIVESP. E busco uma oportunidade para iniciar na área de desenvolvimento de software.
+</p>
+
+
+
 
 ---
 
