@@ -10,11 +10,15 @@ Como sempre tive facilidade em aprender novas coisas, em todos produtos que trab
 
 E por ser curioso, queria saber como era o funcionamento dos sistemas que utilizava e tentava sempre ir além. E acabei descobrindo a programação, e assim soube onde todas ferramentas que eu utilizava eram desenvolvidas. Decidindo que aquilo era exatamente o que eu queria fazer, desenvolver sistemas para outras pessoas utilizarem.
 
-Atualmente curso Engenharia da Computação na UNIVESP. E busco uma oportunidade para iniciar na área de desenvolvimento de software.
+Atualmente curso Engenharia da Computação na UNIVESP.
 </p>
 
+---
 
-
+<p align=center>
+<a href="https://www.linkedin.com/in/brumotadev/"><img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white"></a> <a href="https://www.linkedin.com/in/brumotadev/"><img src="https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white"></a> <a href="https://www.linkedin.com/in/brumotadev/"><img src="https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white"></a> <a href="https://www.linkedin.com/in/brumotadev/"><img src="https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white"></a> <a href="https://www.linkedin.com/in/brumotadev/"><img src="https://img.shields.io/badge/Amazon_AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white
+"></a> 
+</p>
 
 ---
 
