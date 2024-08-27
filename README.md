@@ -4,16 +4,13 @@
 <img align=right src="https://github.com/brumotadev/brumotadev/blob/main/assets/coffee.png">
 
 <p>
-Possuo experiência com atendimento ao cliente, onde trabalhei como operador de telemarketing atuando com produtos de BackOffice de Vendas, Consórcio, Financeiro, Suporte técnico e seguros.
+Possuo experiência com desenvolvimento de softwares web, trabalhando com back-end e front-end. Nas área de ecommerce, financeiro e bancos. Utilizando as tecnologias PHP, Laravel, Vue.js, MySQL, Docker, AWS, WordPress, Firebase, Node.js, Python, Git e Github. Além de ter trabalhado com metodologias ágeis como SCRUM e KANBAN.
 
-Como sempre tive facilidade em aprender novas coisas, em todos produtos que trabalhei. Me tornava um apoio para meus outros colegas de equipe, ajudando na solução de problemas e na utilização dos sistemas. E ministrava treinamentos para novos membros da equipe, sobre a utilização do sistema e regras de negócio.
+Sou formado em análise e desenvolvimento de sistemas pela UNINOVE. Cursando Engenharia da Computação na UNIVESP.
 
-E por ser curioso, queria saber como era o funcionamento dos sistemas que utilizava e tentava sempre ir além. E acabei descobrindo a programação, e assim soube onde todas ferramentas que eu utilizava eram desenvolvidas. Decidindo que aquilo era exatamente o que eu queria fazer, desenvolver sistemas para outras pessoas utilizarem.
-
-Atualmente curso Engenharia da Computação na UNIVESP.
+E atualmente estou aprofundando meus conhecimentos em Java e todo seu ecossistema.
 </p>
 
----
 
 <p align=center>
 <a href="https://www.linkedin.com/in/brumotadev/"><img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white"></a> <a href="https://www.linkedin.com/in/brumotadev/"><img src="https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white"></a> <a href="https://www.linkedin.com/in/brumotadev/"><img src="https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white"></a> <a href="https://www.linkedin.com/in/brumotadev/"><img src="https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white"></a> <a href="https://www.linkedin.com/in/brumotadev/"><img src="https://img.shields.io/badge/Amazon_AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white
