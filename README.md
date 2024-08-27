@@ -1,7 +1,7 @@
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=66fcf1&height=120&section=header"/>
 
 
-<img align=right src="https://github.com/brumotadev/brumotadev/blob/main/assets/coffee.png">
+<img align=right height="195px" src="https://github.com/brumotadev/brumotadev/blob/main/assets/coffee.png">
 
 <p>
 Possuo experiência com desenvolvimento de softwares web, trabalhando com back-end e front-end. Nas área de ecommerce, financeiro e bancos. Utilizando as tecnologias PHP, Laravel, Vue.js, MySQL, Docker, AWS, WordPress, Firebase, Node.js, Python, Git e Github. Além de ter trabalhado com metodologias ágeis como SCRUM e KANBAN.
