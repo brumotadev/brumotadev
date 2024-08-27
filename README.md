@@ -1,4 +1,4 @@
-## Olá, sou o Bruno Mota! 👋
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=66fcf1&height=120&section=header"/>
 
 
 <img align=right src="https://github.com/brumotadev/brumotadev/blob/main/assets/coffee.png">
@@ -19,11 +19,15 @@ E atualmente estou aprofundando meus conhecimentos em Java e todo seu ecossistem
 
 ---
 
-![Top Langs](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=brumotadev&bg_color=0d1117&border_color=0d1117&title_color=E94D5F&text_color=FFF)
-[![GitHub Streak](https://streak-stats.demolab.com/?user=brumotadev&theme=bear&background=0d1117&border=0d1117&dates=FFF)](https://git.io/streak-stats)
+<div align="center">  
+  <img width="49%" height="195px" src="https://streak-stats.demolab.com/?user=brumotadev&theme=dark-smoky&background=0d1117&border=0d1117&dates=FFF" /> 
+  <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=brumotadev&layout=compact&hide_border=true&title_color=66fcf1&text_color=fff&bg_color=0d1117" />
+</div>
 
 ---
 
 <p align=center>
 <a href="https://www.linkedin.com/in/brumotadev/"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white"></a> <a href="https://www.linkedin.com/in/brumotadev/"><img src="https://img.shields.io/badge/Instagram-E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white"></a> <a href="https://www.linkedin.com/in/brumotadev/"><img src="https://img.shields.io/badge/WhatsApp-25D366.svg?style=for-the-badge&logo=WhatsApp&logoColor=white"></a> </a> <a href="https://www.linkedin.com/in/brumotadev/"><img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white"></a>
 </p>
+
+ <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=66fcf1&height=120&section=footer"/>
