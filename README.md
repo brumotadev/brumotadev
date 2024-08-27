@@ -13,8 +13,8 @@ E atualmente estou aprofundando meus conhecimentos em Java e todo seu ecossistem
 
 
 <p align=center>
-<a href="https://www.linkedin.com/in/brumotadev/"><img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white"></a> <a href="https://www.linkedin.com/in/brumotadev/"><img src="https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white"></a> <a href="https://www.linkedin.com/in/brumotadev/"><img src="https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white"></a> <a href="https://www.linkedin.com/in/brumotadev/"><img src="https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white"></a> <a href="https://www.linkedin.com/in/brumotadev/"><img src="https://img.shields.io/badge/Amazon_AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white
-"></a> 
+<a href="https://www.linkedin.com/in/brumotadev/"><img src="https://img.shields.io/badge/Java-ED8B00?style=plastic&logo=openjdk&logoColor=white"></a> <a href="https://www.linkedin.com/in/brumotadev/"><img src="https://img.shields.io/badge/Spring-6DB33F?style=plastic&logo=spring&logoColor=white"></a> <a href="https://www.linkedin.com/in/brumotadev/"><img src="https://img.shields.io/badge/MySQL-005C84?style=plastic&logo=mysql&logoColor=white"></a> <a href="https://www.linkedin.com/in/brumotadev/"><img src="https://img.shields.io/badge/Angular-DD0031?style=plastic&logo=angular&logoColor=white"></a><a href="https://www.linkedin.com/in/brumotadev/"><img src="https://img.shields.io/badge/Amazon_AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white
+"></a> <a href="https://www.linkedin.com/in/brumotadev/"><img src="https://img.shields.io/badge/PHP-777BB4.svg?style=plastic&logo=PHP&logoColor=white"></a> <a href="https://www.linkedin.com/in/brumotadev/"><img src="https://img.shields.io/badge/Laravel-FF2D20.svg?style=plastic&logo=Laravel&logoColor=white"></a> <a href="https://www.linkedin.com/in/brumotadev/"><img src="https://img.shields.io/badge/Vue.js-4FC08D.svg?style=plastic&logo=vuedotjs&logoColor=white"></a>
 </p>
 
 ---
@@ -27,7 +27,7 @@ E atualmente estou aprofundando meus conhecimentos em Java e todo seu ecossistem
 ---
 
 <p align=center>
-<a href="https://www.linkedin.com/in/brumotadev/"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white"></a> <a href="https://www.linkedin.com/in/brumotadev/"><img src="https://img.shields.io/badge/Instagram-E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white"></a> <a href="https://www.linkedin.com/in/brumotadev/"><img src="https://img.shields.io/badge/WhatsApp-25D366.svg?style=for-the-badge&logo=WhatsApp&logoColor=white"></a> </a> <a href="https://www.linkedin.com/in/brumotadev/"><img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white"></a>
+<a href="https://www.linkedin.com/in/brumotadev/"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=plastic&logo=linkedin&logoColor=white"></a> <a href="https://www.linkedin.com/in/brumotadev/"><img src="https://img.shields.io/badge/Instagram-E4405F.svg?style=plastic&logo=Instagram&logoColor=white"></a> <a href="https://www.linkedin.com/in/brumotadev/"><img src="https://img.shields.io/badge/WhatsApp-25D366.svg?style=plastic&logo=WhatsApp&logoColor=white"></a> </a> <a href="https://www.linkedin.com/in/brumotadev/"><img src="https://img.shields.io/badge/Telegram-2CA5E0?style=plastic&logo=telegram&logoColor=white"></a>
 </p>
 
  <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=66fcf1&height=120&section=footer"/>
