@@ -1,5 +1,3 @@
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=66fcf1&height=120&section=header"/>
-
 
 <img align=right height="160px" src="https://github.com/brumotadev/brumotadev/blob/main/assets/coffee.png">
 
