@@ -27,5 +27,3 @@ E atualmente estou aprofundando meus conhecimentos em Java e todo seu ecossistem
 <p align=center>
 <a href="https://www.linkedin.com/in/brumotadev/"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=flat&logo=linkedin&logoColor=white"></a> <a href="https://www.linkedin.com/in/brumotadev/"><img src="https://img.shields.io/badge/Instagram-E4405F.svg?style=flat&logo=Instagram&logoColor=white"></a> <a href="https://www.linkedin.com/in/brumotadev/"><img src="https://img.shields.io/badge/WhatsApp-25D366.svg?style=flat&logo=WhatsApp&logoColor=white"></a> </a> <a href="https://www.linkedin.com/in/brumotadev/"><img src="https://img.shields.io/badge/Telegram-2CA5E0?style=flat&logo=telegram&logoColor=white"></a>
 </p>
-
- <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=66fcf1&height=120&section=footer"/>
