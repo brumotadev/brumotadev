@@ -6,7 +6,6 @@ Possuo experiência com desenvolvimento de softwares web, trabalhando com back-e
 
 Sou formado em análise e desenvolvimento de sistemas pela UNINOVE. Cursando Engenharia da Computação na UNIVESP.
 
-E atualmente estou aprofundando meus conhecimentos em Java e todo seu ecossistema.
 </p>
 
 
