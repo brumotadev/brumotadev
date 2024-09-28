@@ -10,7 +10,7 @@ Sou formado em análise e desenvolvimento de sistemas pela UNINOVE.
 
 
 <p align=center>
-<a href="https://www.linkedin.com/in/brumotadev/"><img src="https://img.shields.io/badge/Java-ED8B00?style=flat&logo=openjdk&logoColor=white"></a> <a href="https://www.linkedin.com/in/brumotadev/"><img src="https://img.shields.io/badge/Spring-6DB33F?style=flat&logo=spring&logoColor=white"></a> <a href="https://www.linkedin.com/in/brumotadev/"><img src="https://img.shields.io/badge/MySQL-005C84?style=flat&logo=mysql&logoColor=white"></a> <a href="https://www.linkedin.com/in/brumotadev/"><img src="https://img.shields.io/badge/Angular-DD0031?style=flat&logo=angular&logoColor=white"></a><a href="https://www.linkedin.com/in/brumotadev/"><img src="https://img.shields.io/badge/Amazon_AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white
+<a href="https://www.linkedin.com/in/brumotadev/"><img src="https://img.shields.io/badge/MySQL-005C84?style=flat&logo=mysql&logoColor=white"></a><a href="https://www.linkedin.com/in/brumotadev/"><img src="https://img.shields.io/badge/Amazon_AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white
 "></a> <a href="https://www.linkedin.com/in/brumotadev/"><img src="https://img.shields.io/badge/PHP-777BB4.svg?style=flat&logo=PHP&logoColor=white"></a> <a href="https://www.linkedin.com/in/brumotadev/"><img src="https://img.shields.io/badge/Laravel-FF2D20.svg?style=flat&logo=Laravel&logoColor=white"></a> <a href="https://www.linkedin.com/in/brumotadev/"><img src="https://img.shields.io/badge/Vue.js-4FC08D.svg?style=flat&logo=vuedotjs&logoColor=white"></a>
 </p>
 
