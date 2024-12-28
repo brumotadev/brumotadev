@@ -4,8 +4,6 @@
 
 Possuo experiência com desenvolvimento de softwares web, trabalhando com back-end e front-end. Nas área de ecommerce, financeiro e bancos. Utilizando as tecnologias PHP, Laravel, Vue.js, MySQL, Docker, AWS, WordPress, Firebase, Node.js, Python, Git e Github. Além de ter trabalhado com metodologias ágeis como SCRUM e KANBAN.
 
-Sou formado em análise e desenvolvimento de sistemas pela UNINOVE.
-
 
 
 
