@@ -14,8 +14,3 @@ Sou formado em análise e desenvolvimento de sistemas pela UNINOVE.
 "></a> <a href="https://www.linkedin.com/in/brumotadev/"><img src="https://img.shields.io/badge/PHP-777BB4.svg?style=flat&logo=PHP&logoColor=white"></a> <a href="https://www.linkedin.com/in/brumotadev/"><img src="https://img.shields.io/badge/Laravel-FF2D20.svg?style=flat&logo=Laravel&logoColor=white"></a> <a href="https://www.linkedin.com/in/brumotadev/"><img src="https://img.shields.io/badge/Vue.js-4FC08D.svg?style=flat&logo=vuedotjs&logoColor=white"></a>
 </p>
 
----
-
-<p align=center>
-<a href="https://www.linkedin.com/in/brumotadev/"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=flat&logo=linkedin&logoColor=white"></a> <a href="https://www.linkedin.com/in/brumotadev/"><img src="https://img.shields.io/badge/Instagram-E4405F.svg?style=flat&logo=Instagram&logoColor=white"></a> <a href="https://www.linkedin.com/in/brumotadev/"><img src="https://img.shields.io/badge/WhatsApp-25D366.svg?style=flat&logo=WhatsApp&logoColor=white"></a> </a> <a href="https://www.linkedin.com/in/brumotadev/"><img src="https://img.shields.io/badge/Telegram-2CA5E0?style=flat&logo=telegram&logoColor=white"></a>
-</p>
