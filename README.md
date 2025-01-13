@@ -2,4 +2,4 @@ Apaixonado por resolver problemas e desenvolver soluções, estou sempre buscand
 
 Tenho experiência com desenvolvimento front-end e back-end, utilizando as tecnologias PHP, Laravel, Vue.js, MySQL, AWS e Docker. Nos setores de ecommerce, financeiro e bancário.
 
-Atualmente trabalho como desenvolvedor fullstack na Blink Reformei.
+Atualmente me especializando em desenvolvimento backend com Java
